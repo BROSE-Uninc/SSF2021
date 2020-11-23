@@ -21,3 +21,4 @@ Exploratory modelling is a method of systematically exploring alternative parame
 We will provide the source code and computing environments for all exercises. No preparation is required, although these papers might be useful to read beforehand:
 * Bankes, S. (1993). Exploratory modeling for policy analysis. *Operations Research*, 41(3), 435-449.
 * Kwakkel, J. H. (2017). The Exploratory Modeling Workbench: An open source toolkit for exploratory modeling, scenario discovery, and (multi-objective) robust decision making. *Environmental Modelling & Software*, 96, 239-250.
+* Saltelli, A., Aleksankina, K., Becker, W., Fennell, P., Ferretti, F., Holst, N., ... & Wu, Q. (2019). Why so many published sensitivity analyses are false: A systematic review of sensitivity analysis practices. *Environmental Modelling & Software*, 114, 29-39.
