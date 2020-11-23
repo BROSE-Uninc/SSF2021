@@ -1,61 +1,24 @@
-Title:
-Introduction to exploratory modelling with EMA workbench (boring)
-Exploring the Behavior of Agent-Based Models with EMA Workbench
+Title: Exploring the Behavior of Agent-Based Models: Theory and Practice
 
-Email address: M.Sirenko@tudelft.nl; Patrick.Steinmann@wur.nl, R.Klein-1@tudelft.nl
+Chairs: Mikhail Sirenko, Patrick Steinmann, Raphaël Klein
 
-Session chairs: Mikhail Sirenko, Patrick Steinmann, Raphaël Klein
+Contact: M.Sirenko@tudelft.nl; Patrick.Steinmann@wur.nl, R.Klein-1@tudelft.nl
 
-Session duration preference: 3 hours
+Session duration: 3 hours
 
-Session timing preference (relative to Central European Time): Afternoon
+Session timing (relative to Central European Time): Afternoon
 
-Session type preference: Tutorials and demonstrations
+Session type: Tutorials and demonstrations
 
-Description of your session (350-400 words):
-Option 1: Social systems are complex AND we use models to encode our knowledge about them BUT understanding the implications of that knowledge exceeds our brain capacity THEREFORE we should use exploratory modelling to systematically study them.
+Description:
+Agent-based models are a common tool for studying social and socio-environmental systems. But such models are never perfect surrogates of the target system - facing incomplete knowledge or unresolvable uncertainties, modellers must resort to simplifications and hypotheses. But what are the consequences of these unverifiable assumptions on the model's behavior?
 
-Option 2: Social systems are often studied with models AND these models are full of uncertainties BUT these uncertainties have a huge influence on model outputs THEREFORE  we should systematically explore them.
+Exploratory modelling is a method of systematically exploring alternative parameter values and model mechanisms, allowing the implications of modelling assumptions to be studied. In this workshop, we will discuss both theory and practice of exploratory modelling. We will first discuss the different types of uncertainties modellers encounter when making (agent-based) simulation models of real-world systems. Then, we will do some practical exercises in Python using `mesa`, an agent-based modelling package, and the `ema-workbench`, a framework for exploratory modelling and analysis. Together, we will take a case study and apply three exploratory modelling methods:
+* *open exploration*: systematic exploration of model uncertainties
+* *sensitivity analysis*: studying which model elements have the most effect on its output
+* *scenario discovery*: searching for the combinations of assumptions and conditions which generate specific model behavior
 
-Option 3 aka RDM: Social systems are often studied with models AND these models are full of uncertainties BUT these uncertainties have a huge influence on model outputs THEREFORE to find a robust policy (that will work under all circumstances) we need to systematically explore them. (maybe, from the theory point of view this is too far)
-
-social simulation is full of uncertainties, which can only be studied with exploratory modelling.=
-
-Here goes the problem. Social simulation does not take into account uncertainty. What a pity.
-The process of modelling socio-technical systems is hard. Say something about post-normal science.
-It is important to take into account multiple uncertainties surrounding the system of interest. Give examples. Talk about black swans?
-There are different ones: parametric and structural.
-To analyse a complex interplay we need to have not only a theory but also tools.
-
-Now, the purpose.
-The workshop is twofold. First, participants will be given a short summary of the relevant concepts. Second,
-
-People.
-
-Place.
-
-Participation.
-
-Presentation.
-
-Preparation.
-
-
-
-
-
-Provisional time table:
-1 hour
-15 min intro
-15 min theory
-15 min case study
-15 min break
-
-2 hour
-45 min work
-15 min break
-
-3 hour
-30 min: work
-15 min: a reflection by workshop participants
-15 min: wrap up by workshop organizers
+We will provide the source code and computing environments for all exercises. No preparation is required, although these papers might be useful to read beforehand:
+* Bankes, S. (1993). Exploratory modeling for policy analysis. *Operations Research*, 41(3), 435-449.
+* Kwakkel, J. H. (2017). The Exploratory Modeling Workbench: An open source toolkit for exploratory modeling, scenario discovery, and (multi-objective) robust decision making. *Environmental Modelling & Software*, 96, 239-250.
+* Saltelli, A., Aleksankina, K., Becker, W., Fennell, P., Ferretti, F., Holst, N., ... & Wu, Q. (2019). Why so many published sensitivity analyses are false: A systematic review of sensitivity analysis practices. *Environmental Modelling & Software*, 114, 29-39.
