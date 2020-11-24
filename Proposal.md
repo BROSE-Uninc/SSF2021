@@ -18,12 +18,7 @@ Exploratory modelling (EM) is a method of systematically exploring alternative p
 * *sensitivity analysis*: studying which model elements have the most effect on its output
 * *scenario discovery*: searching for the combinations of assumptions and conditions which generate specific model behavior
 
-We invite both young and experienced modellers to participate. Experience in NetLogo or Python will help, but not mandatory. To speed up the tutorial we ask participants to install the following in advance:
-* an open-source version of `Anaconda distribution Individual Edition`
-* `Mesa` and `EMA Workbench` Python packages
-* `Slack` as communication platform (we will create a workspace for the tutorial)
-
-We will provide source code as a set of IPython Notebooks along with computational environments needed to execute those. Also, we will upload a set of instructions on how the proposed methods could be integrated into the participants' work. Finally, these papers might be useful to read beforehand:
+We invite both young and experienced modellers to participate. Experience in NetLogo or Python will help, but not mandatory. We will provide source code along with computational environments needed to execute those. Also, we will upload a set of instructions on how the proposed methods could be integrated into the participants' work. No software installation is required, participants will work in a cloud enviroment such as `Google Colaboratory` or `Deepnote`. Finally, these papers might be useful to read beforehand:
 * Bankes, S. (1993). Exploratory modeling for policy analysis. *Operations Research*, 41(3), 435-449.
 * Kwakkel, J. H. (2017). The Exploratory Modeling Workbench: An open source toolkit for exploratory modeling, scenario discovery, and (multi-objective) robust decision making. *Environmental Modelling & Software*, 96, 239-250.
 * Saltelli, A., Aleksankina, K., Becker, W., Fennell, P., Ferretti, F., Holst, N., ... & Wu, Q. (2019). Why so many published sensitivity analyses are false: A systematic review of sensitivity analysis practices. *Environmental Modelling & Software*, 114, 29-39.
@@ -47,9 +42,3 @@ Provisional time table:
 - Getting back (5 min)
 - Sensitivity analsyis (45 min)
 - Reflection and closing remarks (15 min)
-
-Downloads
-* Anaconda Inc (2020). Anaconda distribution Individual Edition [Computer software]. https://www.anaconda.com/products/individual
-* Project Mesa Team (2016). Mesa: Agent-based modeling in Python 3+ [Computer software]. https://mesa.readthedocs.io/en/stable/index.html#
-* Kwakkel, J. H. (2018). Exploratory Modelling and Analysis (EMA) Workbench [Computer software]. https://emaworkbench.readthedocs.io/en/latest/#
-* Slack Technologies (2020). Slack: Where work happens [Computer software]. https://slack.com/intl/en-nl/
