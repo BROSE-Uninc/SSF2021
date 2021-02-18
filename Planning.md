@@ -1,47 +1,43 @@
 ## Schedule
-### Hour 1: Intro + Theory
+### Part I: Introduction, theory, setup
 | How long? 	| What? 	|
 |-	|-	|
-| 5 min 	| Hello all! 	|
-| 5 min 	| What’s coming? 	|
-| 30 min 	| What is SA 	|
-|  	| Why do you do SA? 	|
-|  	| What are the types of SA? 	|
-|  	| Global 	|
-|  	| Local 	|
-|  	| What are the methods?  	|
-|  	| Variance-based SA 	|
-|  	| Convincing examples from big guys 	|
-| 10 min 	| Q&A 	|
-| 10 min 	| Break 	|
+| 09:30  	| Hello all! 	|
+| 09:35  	| What’s coming? 	|
+| 09:40  	| What is SA 	|
+|  	      | Why do you do SA? 	|
+|  	      | What are the types of SA? 	|
+|      	  | Global 	|
+|  	      | Local 	|
+|  	      | What are the methods?  	|
+|  	      | Variance-based SA 	|
+|  	      | Convincing examples from big guys 	|
+| 10:10  	| Q&A 	|
+| 10:20  	| Break 	|
 
-### Hour 2: Practice
+### Part II: Practice, concluding remarks
 | How long? 	| What? 	|
-|-	|-	|
-| 5 min 	| Getting back on track 	|
-| 10 min 	| What’s the model about? Inputs, outputs. 	|
-| 5 min 	| What’s Mesa? 	|
-| 10 min 	| What’s EMA Workbench? It’s a collection of tools for analysis. 	|
-| 10 min 	| Setting up Google Colaboratory to work 	|
-| 20 min 	| SA Part 1 	|
-|  	|  	|
-|  	|  	|
-|  	|  	|
-| 5 min 	| Break 	|
-
-### Hour 3: Practice + Concluding remarks
-| How long? 	| What? 	|
-|-	|-	|
-| 45 min 	| SA Part 2 	|
-|  	| Analyzing  	|
-|  	|  	|
-|  	|  	|
-|  	|  	|
-|  	|  	|
-|  	|  	|
-|  	|  	|
-| 15 min 	| Summary of what has been done 	|
-|  	| Q&A 	|
+|-	      |-	|
+| 10:20  	| Getting back on track 	|
+| 10:25  	| What’s the model about? Inputs, outputs. 	|
+| 10:35 	| What’s Mesa? 	|
+| 10:40   | What’s EMA Workbench? It’s a collection of tools for analysis. 	|
+| 10:50   | Setting up Google Colaboratory to work 	|
+| 11:00   | Break 	|
+| 11:15 	| SA Part 1 	|
+|       	|  	|
+|  	      |  	|
+|  	      |  	|
+| 11:35  	| SA Part 2 	|
+|        	| Analyzing  	|
+|       	|  	|
+|       	|  	|
+|        	|  	|
+|        	|  	|
+|        	|  	|
+|  	      |  	|
+| 12:20  	| Summary of what has been done 	|
+| 12:35 	| Q&A 	|
 
 ## Useful links
 ### Readings
