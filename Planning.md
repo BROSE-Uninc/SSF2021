@@ -12,21 +12,19 @@
 |  	      | What are the methods?  	|
 |  	      | Variance-based SA 	|
 |  	      | Convincing examples from big guys 	|
-| 10:10  	| Q&A 	|
-| 10:20  	| Break 	|
+| 10:10  	| What’s the model about? Inputs, outputs. 	|
+| 10:20 	| What’s Mesa? 	|
+| 10:25   | What’s EMA Workbench? It’s a collection of tools for analysis. 	|
+| 10:35   | Setting up Google Colaboratory to work 	|
+| 10:45  	| Q&A 	|
+| 11:00   | Break 	|
 
 ### Part II: Practice, concluding remarks
 | How long? 	| What? 	|
 |-	      |-	|
-| 10:20  	| Getting back on track 	|
-| 10:25  	| What’s the model about? Inputs, outputs. 	|
-| 10:35 	| What’s Mesa? 	|
-| 10:40   | What’s EMA Workbench? It’s a collection of tools for analysis. 	|
-| 10:50   | Setting up Google Colaboratory to work 	|
-| 11:00   | Break 	|
 | 11:15 	| SA Part 1 	|
-|       	|  	|
-|  	      |  	|
+|       	| The mesa virus on a network model 	|
+|  	      | Designing EMA experiments 	|
 |  	      |  	|
 | 11:35  	| SA Part 2 	|
 |        	| Analyzing  	|
