@@ -1,0 +1,14 @@
+name: sa-with-ema
+
+dependencies:
+  - python=3.8.3
+  - matplotlib
+  - seaborn
+  - pandas
+  - numpy
+  - ipyprallel
+  - scikit-learn
+  - statsmodels
+  - pip:
+    - ema_workbench
+    - mesa
