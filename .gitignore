@@ -4,3 +4,4 @@ profile_default/
 ipython_config.py
 __pycache__/*
 */__pycache__/*
+settings.json
