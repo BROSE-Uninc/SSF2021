@@ -81,7 +81,8 @@ class VirusOnNetwork(Model):
             self.grid.place_agent(a, node)
 
         # Infect some nodes
-        infected_nodes = self.random.sample(self.G.nodes(), self.initial_outbreak_size)
+        infected_nodes = self.random.sample(
+            self.G.nodes(), self.initial_outbreak_size)
         for a in self.grid.get_cell_list_contents(infected_nodes):
             a.state = State.INFECTED
 
@@ -127,7 +128,8 @@ class VirusAgent(Agent):
         self.gain_resistance_chance = gain_resistance_chance
 
     def try_to_infect_neighbors(self):
-        neighbors_nodes = self.model.grid.get_neighbors(self.pos, include_center=False)
+        neighbors_nodes = self.model.grid.get_neighbors(
+            self.pos, include_center=False)
         susceptible_neighbors = [
             agent
             for agent in self.model.grid.get_cell_list_contents(neighbors_nodes)
