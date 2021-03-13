@@ -1,5 +1,8 @@
-# This code was modifed from
-# https://pynetlogo.readthedocs.io/en/latest/_docs/SALib_ipyparallel.html#Using-SALib-for-sensitivity-analysis
+# ---------------------------------------------------------------------------- #
+#                           Plotting functions for SA                          #
+# ---------------------------------------------------------------------------- #
+
+# Modifed from https://pynetlogo.readthedocs.io/en/latest/_docs/SALib_ipyparallel.html#Using-SALib-for-sensitivity-analysis
 from matplotlib.legend_handler import HandlerPatch
 import itertools
 import numpy as np
@@ -35,7 +38,7 @@ def filter(sobol_indices, names, locs, criterion, threshold):
     if criterion in ['ST', 'S1', 'S2']:
         data = sobol_indices[criterion]
         data = np.abs(data)
-        data = data.flatten() # flatten in case of S2
+        data = data.flatten()  # flatten in case of S2
         # TODO:: remove nans
 
         filtered = ([(name, locs[i]) for i, name in enumerate(names) if

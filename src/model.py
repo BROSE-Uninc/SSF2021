@@ -1,3 +1,8 @@
+# ---------------------------------------------------------------------------- #
+#                           Here we define the model                           #
+# ---------------------------------------------------------------------------- #
+
+# Necessary imports
 import math
 from enum import Enum
 import networkx as nx
@@ -6,7 +11,6 @@ from mesa import Agent, Model
 from mesa.time import RandomActivation
 from mesa.datacollection import DataCollector
 from mesa.space import NetworkGrid
-
 
 class State(Enum):
     SUSCEPTIBLE = 0
