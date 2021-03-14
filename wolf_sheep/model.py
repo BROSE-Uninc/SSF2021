@@ -13,8 +13,8 @@ from mesa import Model
 from mesa.space import MultiGrid
 from mesa.datacollection import DataCollector
 
-from wolf_sheep.agents import Sheep, Wolf, GrassPatch
-from wolf_sheep.schedule import RandomActivationByBreed
+from SSF2021.wolf_sheep.agents import Sheep, Wolf, GrassPatch
+from SSF2021.wolf_sheep.schedule import RandomActivationByBreed
 
 
 class WolfSheep(Model):

@@ -1,5 +1,5 @@
 from mesa import Agent
-from wolf_sheep.random_walk import RandomWalker
+from SSF2021.wolf_sheep.random_walk import RandomWalker
 
 
 class Sheep(RandomWalker):
