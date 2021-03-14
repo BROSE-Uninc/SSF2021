@@ -58,4 +58,4 @@ Here is the repo structure:
  *Patrick Steinmann* [@steipat](https://twitter.com/steipatr),
  *Mikhail Sirenko* [@mikhailsirenko](https://twitter.com/mikhailsirenko)
 
- And of course, we would like to thank *Jan Kwakkel*[@jan_kwakkel](https://twitter.com/jan_kwakkel) and *Marc Jaxa-Rozen* for their practical and theoretical contribution into ideas and the code behind this workshop, core developers and contributors of [EMA Workbench](https://emaworkbench.readthedocs.io/en/latest/), [Mesa: Agent-based modeling in Python 3+](https://mesa.readthedocs.io/en/stable/) and [SALib](https://salib.readthedocs.io/en/latest/).
+ And of course, we would like to thank *Jan Kwakkel* [@jan_kwakkel](https://twitter.com/jan_kwakkel) and *Marc Jaxa-Rozen* for their practical and theoretical contribution into ideas and the code behind this workshop, core developers and contributors of [EMA Workbench](https://emaworkbench.readthedocs.io/en/latest/), [Mesa: Agent-based modeling in Python 3+](https://mesa.readthedocs.io/en/stable/) and [SALib](https://salib.readthedocs.io/en/latest/).
