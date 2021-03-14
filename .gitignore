@@ -5,4 +5,5 @@ ipython_config.py
 __pycache__/*
 */__pycache__/*
 settings.json
+**/.DS_Store
 .DS_Store
