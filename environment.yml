@@ -2,13 +2,16 @@ name: sa-with-ema
 
 dependencies:
   - python=3.8.3
+  - pip
   - matplotlib
   - seaborn
   - pandas
   - numpy
-  - ipyprallel
+  - ipyparallel
   - scikit-learn
   - statsmodels
+  - jupyterlab
   - pip:
     - ema_workbench
     - mesa
+    - SALib
