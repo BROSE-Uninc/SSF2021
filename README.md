@@ -22,3 +22,12 @@ Imagine an abstract model that have 5 parameters: `b`, `delta`, `mean`, `q` and 
 <p align="center">
   <img src="https://emaworkbench.readthedocs.io/en/latest/_images/indepth_tutorial_open-exploration_25_0.png" width="640" title="What's going on?">
 </p>
+
+## How to use this repo?
+
+## Authors & acknowledgements
+ *Raphael Klein* [@RaphaelKl1](https://twitter.com/RaphaelKl1),
+ *Patrick Steinmann* [@steipat](https://twitter.com/steipatr),
+ *Mikhail Sirenko* [@mikhailsirenko](https://twitter.com/mikhailsirenko)
+
+ And of course we would like to thank *Jan Kwakkel* and *Marc Jaxa-Rozen* for their practical and theoretical contribution into ideas and the code behind this workshop, core developers and contributors of [EMA Workbench](https://emaworkbench.readthedocs.io/en/latest/), [Mesa: Agent-based modeling in Python 3+](https://mesa.readthedocs.io/en/stable/) and [SALib](https://salib.readthedocs.io/en/latest/).
