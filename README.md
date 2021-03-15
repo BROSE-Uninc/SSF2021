@@ -7,7 +7,7 @@
 ## TL;DR
 You must do SA. Just must. Why? Because it helps to:
 
-* identify a subset of important model parameters,
+* understand which parameters in your model matter (and which don't),
 * debug the model,
 * better plan policy interventions.
 
