@@ -2,9 +2,7 @@
 
 *"Since all models are wrong the scientist must be alert to what is importantly wrong. It is inappropriate to be concerned about mice when there are tigers abroad."* George Box, 1976.
 
-<p align="center">
-  <img src="img/logo.png" width="640"  title="What's going on?">
-</p>
+![](img/logo.gif)
 
 ## TL;DR
 You must do SA. Just must. Why? Because it helps to:
